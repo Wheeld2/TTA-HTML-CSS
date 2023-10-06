@@ -1,0 +1,11 @@
+p {
+    font-style: italic;
+    text-align: center;
+    background: pink;
+    color: darkcyan;
+    font-family:Arial;
+    
+}
+h3 {
+    text-shadow: 4px 4px #ca3212;
+}
